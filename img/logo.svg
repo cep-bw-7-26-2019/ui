@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="130px" height="25px" viewBox="0 0 130 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>Group@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="130" height="25"></rect>
+            <g id="logo">
+                <text id="Event-App" fill="#000000" font-family="SFProDisplay-Medium, SF Pro Display" font-size="20" font-weight="400">
+                    <tspan x="36" y="19">Event App</tspan>
+                </text>
+                <g fill="#003D7D" fill-rule="nonzero" id="Oval">
+                    <circle cx="12.5" cy="12.5" r="12.5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

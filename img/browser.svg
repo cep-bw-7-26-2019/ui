@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="479px" height="383px" viewBox="0 0 479 383" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>Group 14@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-2.5%" y="-3.2%" width="105.1%" height="106.4%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect x="280.509068" y="300.958013" width="154" height="48" id="rect-2"></rect>
+    </defs>
+    <g id="concept" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="rr-copy-9" transform="translate(-762.000000, -2661.000000)">
+            <g id="Group-32" transform="translate(232.000000, 2663.000000)">
+                <g id="Group-14" transform="translate(534.490247, 0.000000)">
+                    <g id="Group-11">
+                        <g id="Group-10">
+                            <g id="Group-9">
+                                <g id="Group-7" filter="url(#filter-1)">
+                                    <g id="Group-13">
+                                        <path d="M53,128 L81,128 C81.5522847,128 82,128.447715 82,129 L82,132 L52,132 L52,129 C52,128.447715 52.4477153,128 53,128 Z" id="Rectangle-Copy-20" fill="#00ADBF"></path>
+                                        <g id="Group-5" transform="translate(19.000000, 150.000000)">
+                                            <g id="Group-4">
+                                                <rect id="Rectangle" stroke="#DBDFE2" fill="#FFFFFF" x="0.5" y="0.5" width="168" height="134" rx="5"></rect>
+                                                <rect id="Rectangle" fill="#E6E9EC" x="16" y="19" width="52" height="6" rx="2"></rect>
+                                                <polyline id="Line" stroke="#00ADBF" stroke-linecap="round" points="14.8938705 102.953226 24.8621605 76.7653268 34.0022828 90.8113187 51.3690689 67.5 68.3784469 98.97743 82.685849 79.1405401 99.9392836 85.3486603 116.828664 82.0690116 146.782641 60.6380232"></polyline>
+                                            </g>
+                                        </g>
+                                        <rect id="Rectangle" stroke="#DBDFE2" fill="#FFFFFF" x="0.5" y="0.5" width="469" height="374" rx="5"></rect>
+                                        <rect id="Rectangle-Copy-26" fill="#FFFFFF" x="0" y="0" width="470" height="375" rx="5"></rect>
+                                    </g>
+                                    <g id="Group-3" transform="translate(30.000000, 177.000000)">
+                                        <g id="Group-6-Copy">
+                                            <g id="Group-5">
+                                                <g id="Group-2" transform="translate(185.000000, 3.000000)">
+                                                    <rect id="Rectangle" fill="#FEF0E4" x="0" y="0" width="32" height="15" rx="7.5"></rect>
+                                                    <path d="M9.5,7.5 L22.5,7.5" id="Line" stroke="#F49342" stroke-width="3" stroke-linecap="round"></path>
+                                                </g>
+                                                <g id="Group" fill="#DBDFE2">
+                                                    <circle id="Oval" opacity="0.75" cx="10" cy="10" r="10"></circle>
+                                                    <rect id="Rectangle-Copy-3" x="34" y="4" width="66" height="6" rx="2"></rect>
+                                                    <rect id="Rectangle-Copy-23" opacity="0.50390625" x="34" y="16" width="88" height="5" rx="1.5"></rect>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="Group-3-Copy" transform="translate(30.000000, 221.000000)">
+                                        <g id="Group-6">
+                                            <g id="Group-5">
+                                                <g id="Group-2" transform="translate(167.000000, 3.000000)">
+                                                    <rect id="Rectangle" fill="#E1EDF9" x="0" y="0" width="50" height="15" rx="7.5"></rect>
+                                                    <path d="M15,7.5 L35,7.5" id="Line" stroke="#3287CB" stroke-width="3" stroke-linecap="round"></path>
+                                                </g>
+                                                <g id="Group" fill="#DBDFE2">
+                                                    <circle id="Oval" opacity="0.75" cx="10" cy="10" r="10"></circle>
+                                                    <rect id="Rectangle-Copy-3" x="34" y="4" width="66" height="6" rx="2"></rect>
+                                                    <rect id="Rectangle-Copy-23" opacity="0.50390625" x="34" y="16" width="109" height="5" rx="1.5"></rect>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="Group-3-Copy-2" transform="translate(30.000000, 265.000000)">
+                                        <g id="Group-6-Copy">
+                                            <g id="Group-5">
+                                                <g id="Group-2" transform="translate(179.000000, 3.000000)">
+                                                    <rect id="Rectangle" fill="#E8F6DF" x="0.128182155" y="0.438858056" width="38" height="15" rx="7.5"></rect>
+                                                    <path d="M11.1288674,7.96502603 L26.1288674,7.96502603" id="Line" stroke="#5CBF01" stroke-width="3" stroke-linecap="round"></path>
+                                                </g>
+                                                <g id="Group" fill="#DBDFE2">
+                                                    <circle id="Oval" opacity="0.75" cx="10" cy="10" r="10"></circle>
+                                                    <rect id="Rectangle-Copy-3" x="34" y="4" width="66" height="6" rx="2"></rect>
+                                                    <rect id="Rectangle-Copy-23" opacity="0.50390625" x="34" y="16" width="109" height="5" rx="1.5"></rect>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="Group-3-Copy-3" transform="translate(30.000000, 309.000000)">
+                                        <g id="Group-6-Copy">
+                                            <g id="Group-5">
+                                                <g id="Group-2" transform="translate(180.000000, 3.000000)">
+                                                    <rect id="Rectangle" fill="#E8F6DF" x="0.433019928" y="0.457061519" width="37" height="15" rx="7.5"></rect>
+                                                    <path d="M11.4330199,7.95706152 L26.4330199,7.95706152" id="Line" stroke="#5CBF01" stroke-width="3" stroke-linecap="round"></path>
+                                                </g>
+                                                <g id="Group" fill="#DBDFE2">
+                                                    <circle id="Oval" opacity="0.75" cx="10" cy="10" r="10"></circle>
+                                                    <rect id="Rectangle-Copy-3" x="34" y="4" width="66" height="6" rx="2"></rect>
+                                                    <rect id="Rectangle-Copy-23" opacity="0.50390625" x="34" y="16" width="109" height="5" rx="1.5"></rect>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <rect id="Rectangle" fill="#F2F4F5" x="0.000609137387" y="44.0348995" width="470" height="91"></rect>
+                                    <rect id="Rectangle" fill="#DBDFE2" x="59" y="81" width="40" height="6" rx="2"></rect>
+                                    <rect id="Rectangle" fill="#DBDFE2" x="20" y="76" width="27" height="27" rx="4"></rect>
+                                    <path d="M54,131 L82,131 C82.5522847,131 83,131.447715 83,132 L83,135 L53,135 L53,132 C53,131.447715 53.4477153,131 54,131 Z" id="Rectangle-Copy-20" fill="#00ADBF"></path>
+                                    <rect id="Rectangle-Copy-19" fill="#DBDFE2" opacity="0.50390625" x="60" y="94" width="85" height="5" rx="1.5"></rect>
+                                    <path d="M21,131 L49,131 C49.5522847,131 50,131.447715 50,132 L50,135 L20,135 L20,132 C20,131.447715 20.4477153,131 21,131 Z" id="Rectangle" fill="#DBDFE2"></path>
+                                    <path d="M87,131 L115,131 C115.552285,131 116,131.447715 116,132 L116,135 L86,135 L86,132 C86,131.447715 86.4477153,131 87,131 Z" id="Rectangle-Copy-21" fill="#DBDFE2"></path>
+                                    <g id="graph" transform="translate(273.509068, 148.000000)">
+                                        <g id="Group-4">
+                                            <rect id="Rectangle" stroke="#DBDFE2" fill="#FFFFFF" x="0.5" y="0.5" width="168" height="99" rx="5"></rect>
+                                            <polyline id="Line" stroke="#00ADBF" stroke-width="3" stroke-linecap="round" points="14.8938705 76.2616491 24.8621605 56.863205 34.0022828 67.2676435 51.3690689 50 68.3784469 73.3166148 82.685849 58.6226223 99.9392836 63.2212299 116.828664 60.7918604 146.782641 44.9170542"></polyline>
+                                        </g>
+                                        <g id="Group-8" transform="translate(15.509068, 11.958013)" fill="#DBDFE2">
+                                            <rect id="Rectangle-Copy-23" opacity="0.50390625" x="0" y="8" width="33" height="4" rx="1.5"></rect>
+                                            <rect id="Rectangle-Copy-24" x="0" y="0" width="52" height="4" rx="1.5"></rect>
+                                        </g>
+                                    </g>
+                                    <g id="graph-copy" transform="translate(273.509068, 258.000000)">
+                                        <g id="Group-4" fill="#FFFFFF" stroke="#DBDFE2">
+                                            <rect id="Rectangle" x="0.5" y="0.5" width="168" height="99" rx="5"></rect>
+                                        </g>
+                                        <g id="Group-8" transform="translate(15.509068, 11.958013)" fill="#DBDFE2">
+                                            <rect id="Rectangle-Copy-23" opacity="0.50390625" x="0" y="8" width="33" height="4" rx="1.5"></rect>
+                                            <rect id="Rectangle-Copy-24" x="0" y="0" width="52" height="4" rx="1.5"></rect>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="Screen-Shot-2019-05-19-at-10.37.11-AM">
+                            <image x="280.509068" y="300.958013" width="154" height="48" xlink:href="data:image/png;base64,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"></image>
+                            <use fill="#00ADBF" fill-rule="evenodd" xlink:href="#rect-2"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
