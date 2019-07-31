@@ -47,8 +47,10 @@ nav {
     color:  #F6682F;
 }
 
+
+
 a {
-    color:black;
+    color:#44474a;
     text-decoration: none;
     margin-right: 32px;
 }
@@ -60,6 +62,7 @@ a {
 .nav-logo {
     margin-right: 32px;
     width: 100%;
+    margin-left: 10px;
 }
 
 @media (max-width: 830px) {
@@ -97,7 +100,17 @@ a {
     width: 50%;
     height: 50%;
     margin-left: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
 }
+
+.hero-square{
+    width: 100%;
+    padding: 10px;
+}
+
 
 .hero-title {
     font-size: 32px;
@@ -145,14 +158,9 @@ a {
 }
 
 .hero-btn:hover {
-    transition: all 0.3s cubic-bezier(0.785, 0.135, 0.15, 0.86) 0s;
+    background-color: #f6682f opacity50%;
 }
 
-.hero-img {
-    background-color:#E9ECF0;
-    border-radius: 15px;
-    background-color: #E9ECF0;
-}
 
 
 .hero-btn.right {
@@ -190,6 +198,7 @@ a {
     color: #5b5f63;
     font-size: 15px;
     line-height: 21px;
+    margin-top: 15px;
 }
 
 @media (max-width: 830px) {
@@ -203,7 +212,7 @@ a {
     }
     .hero-content{
         width: 100%;
-        margin-top: 48px;
+        margin-top: 20%;
     }
 
     .hero-title, .hero-p {
@@ -226,9 +235,6 @@ a {
         padding: 0px;
     }
 
-    .hero-img {
-        width: 100%;
-    }
 }
 
 
@@ -284,7 +290,6 @@ a {
     cursor: pointer;
     line-height: 1;
     text-align: center;
-    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 2px;
     opacity: 1;
     font-weight: 500;
     display: inline-block;
@@ -322,6 +327,7 @@ a {
     width: 100%;
     height: 400px;
     margin-top: 32px;
+    border-bottom: 1px solid rgb(211, 219, 227);
 }
 
 .banner-two-content {
@@ -387,6 +393,10 @@ a {
 }
 
 @media (max-width: 830px) {
+    .banner-two {
+        height: auto;
+    }
+
     .banner-two-content {
         display:flex;
         flex-direction: column-reverse;
@@ -453,7 +463,7 @@ a {
     line-height: 36px;
 }
 
-.p-banner-tree {
+.p-banner-three {
     font-size: 20px;
     line-height: 30px;
 }
@@ -490,6 +500,9 @@ a {
 }
 
 @media (max-width: 830px) {
+    .banner-three {
+        height: auto;
+    }
     .banner-three-content {
         display:flex;
         flex-direction: column;
@@ -504,7 +517,7 @@ a {
     }
     
     .banner-three-left {
-       background-color: #E9ECF0;
+        display: none;
        margin-bottom: 36px;
        width: 100%;
        margin-right: 0px;
@@ -613,7 +626,6 @@ p {
    line-height: 1;
    position: relative;
    text-align: center;
-   box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 2px;
    opacity: 1;
    font-weight: 500;
    display: inline-block;
@@ -699,9 +711,8 @@ input:focus {
 .photo {
     height: 50px;
     width: 50px;
-    background-color: #F6682F;
+    background-color:#F6682F;
     border-radius: 4px;
-    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 2px;
 }
 
 .p-team {
@@ -726,10 +737,23 @@ input:focus {
     display: flex;
 }
 
-.github, .linkedin, .twitter {
-    width: 15px;
-    margin-right: 20px;
+.row-icons {
+    display: flex;
 }
+
+
+.github1, .linkedin1{
+    width: 17px;
+    margin-right: 10px;
+    padding-top: 2px;
+}
+
+.twitter1{
+    width: 17px;
+    margin-right: 10px;
+    padding-top: 4.5px;
+}
+
 
 
 @media (max-width: 830px) {
